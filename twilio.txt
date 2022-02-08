@@ -1,0 +1,5 @@
+Account SID: ACe70c373c58f6436d1c1486d6e41ab9c2
+
+Auth Token: 3acace0c78f26a413bdf58b545b7be91
+
+meu numero: 5534933007290
